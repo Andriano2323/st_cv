@@ -25,7 +25,6 @@ click==8.1.7
 colorama==0.4.6
 colorlog==6.8.2
 comm==0.1.2
-conda==23.5.2
 conda-libmamba-solver==23.4.0
 conda-package-handling==2.1.0
 conda_package_streaming==0.8.0
