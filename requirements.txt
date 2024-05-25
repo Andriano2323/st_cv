@@ -178,7 +178,7 @@ tinycss2==1.2.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.1
-torch==2.3.0+cu118
+torch==2.3.0
 torchaudio==2.3.0+cu118
 torchmetrics==1.4.0.post0
 torchutils==0.0.4
